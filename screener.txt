@@ -1,0 +1,8 @@
+Sales growth > 20% AND
+Sales growth 3Years > 20% AND
+Profit growth > 25% AND
+Profit growth 3Years > 25% AND
+Return on equity > 17% AND
+FII holding + DII holding > 15% AND
+Market Capitalization > 1000 AND
+Debt to equity < 1.0
